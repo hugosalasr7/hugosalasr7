@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hugo Salas.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hugo Salas. A grad student in Computer Science and Public Policy.
+- 🌱 I'm currently refining my technical skills: learning Advanced Machine Learning, Natural Language Processing and Big Data Architecture
+- 📫 Reach me at hugo.salas.r@outlook.com
 
 <!---
 hugosalasr7/hugosalasr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
