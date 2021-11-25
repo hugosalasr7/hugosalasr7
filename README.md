@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hugo Salas: a grad student in Computer Science and Public Policy.
-- 🌱 I'm currently refining my technical skills: learning Advanced Machine Learning, Natural Language Processing and Big Data Architecture
+- 🌱 Currently refining my technical toolkit: learning about Advanced ML, NLP and Big Data tools
+- :palm_tree: Previous experience designing and conducting statistical inference analyses 
 - 📫 Reach me at hugo.salas.r@outlook.com
 
 <!---
