@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hugo Salas: a grad student in Computer Science and Public Policy.
 - 🌱 Currently refining my technical toolkit: learning about Advanced ML, NLP and Big Data tools
-- :palm_tree: Previous experience designing and conducting statistical inference analyses 
+- :palm_tree: Past experience: (1) conducting statistical inference analyses and (2) using ML to predict international vulnerability measures.
 - 📫 Reach me at hugo.salas.r@outlook.com
 
 <!---
