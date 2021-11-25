@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Salas. A grad student in Computer Science and Public Policy.
+- 👋 Hi, I’m Hugo Salas: a grad student in Computer Science and Public Policy.
 - 🌱 I'm currently refining my technical skills: learning Advanced Machine Learning, Natural Language Processing and Big Data Architecture
 - 📫 Reach me at hugo.salas.r@outlook.com
 
