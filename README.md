@@ -1,4 +1,4 @@
-- 👋 I’m Hugo: a grad student in Computer Science and Public Policy.
+- 👋 I’m Hugo: a computational social scientist.
 - :palm_tree: Past experience: (1) causal inference analyses for social policy purposes and (2) using ML to predict international vulnerability measures.
 - 📫 Reach me at hugo.salas.r@outlook.com
 
